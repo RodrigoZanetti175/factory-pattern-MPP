@@ -1,13 +1,13 @@
 # Padrão Factory - Grupo BuscaVest
 
 ## Integrantes
-- Ágata
-- Breno 
-- Enzo
-- Jorge
-- Rodrigo Zanetti 2012
-- Vicente 2030
-- Vinicius
+- Ágata 1681432412002
+- Breno 1681432412011
+- Enzo 1681432412017
+- Jorge 1681432412022
+- Rodrigo Zanetti 1681432412012
+- Vicente 1681432412030
+- Vinicius 1681432412020
 
 ## Descrição do Projeto
 
